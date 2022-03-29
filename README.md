@@ -28,15 +28,18 @@ beautifulsoup4 == 4.10.0
 
 # 二、网站分析
 ## 1.发送请求到服务器，找到每套图片的链接地址
-![在这里插入图片描述](https://img-blog.csdnimg.cn/465477e8e4954933b2ef7840c75c417e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATmJlZWU3Nzc3,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/e1f71c0b92bc4677a0ad47cbd4969267.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATmJlZWU3Nzc3,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
 
 
 ## 2.进入套图获取图片的下载链接
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9100c2b0130442f3a4709d8dd2d1cd84.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATmJlZWU3Nzc3,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/84dec3768e5244c4a8d69f2f464f289b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATmJlZWU3Nzc3,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
 
 
 ## 3.找到套图中每张图片链接的特点
-![在这里插入图片描述](https://img-blog.csdnimg.cn/6d1d14082b0641f680e99e1ee674a002.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATmJlZWU3Nzc3,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/3ed6a60fe56545c6bfbbca59d717f156.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATmJlZWU3Nzc3,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
 
 
 # 三、代码示例
@@ -106,7 +109,8 @@ for a in aList:
 
 # 总结
 效果如下：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/32dc0347a83a4c91be9ed6a641cfdea6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATmJlZWU3Nzc3,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20ff235039e344a19e517cdea450a2db.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATmJlZWU3Nzc3,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
 
 
 

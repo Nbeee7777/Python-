@@ -4,7 +4,7 @@
 > 本文用于分享、记录博主学习Python中的实践，为大家整理思路、 相互学习
 
 
----
+
 
 # 前言
 
@@ -12,7 +12,7 @@
 博主为控制科学与工程专业研究生，非科班出身，在课题之余学习编程，将代码与大家分享，代码中需要改进的地方欢迎讨论。
 参考资料：[https://www.bilibili.com/video/BV1BY411E7Pi?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1BY411E7Pi?spm_id_from=333.999.0.0)。
 
----
+
 
 
 
